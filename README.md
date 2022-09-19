@@ -11,6 +11,6 @@
 
 # Tools used
 * Eclipse
-# Image
-![IMG_20220919_163051 (2)](https://user-images.githubusercontent.com/96181166/191015279-66d22e91-4a53-46b3-ba2b-e22cde07beba.jpg)
+# ScreenShot
+![Screenshot 2022-09-19 180105](https://user-images.githubusercontent.com/96181166/191017885-a90b00b9-a882-4d62-b28b-4547d1874d20.png)
 
